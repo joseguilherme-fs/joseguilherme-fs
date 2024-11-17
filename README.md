@@ -1,6 +1,10 @@
-<h2 align="left">Oie👋! Meu nome é José Guilherme, tenho 21 anos e sou de João Pessoa/PB.</h2>
+<h2 align="left">Olá👋! Meu nome é José Guilherme! </h2>
 
 ###
+
+- 📍 João Pessoa/PB
+- 😺 Tenho 21 anos.
+- 📖 Estudante de Sistemas para Internet no IFPB (5º período).
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joseguilherme-fs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -9,7 +13,7 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/joseguilherme-fs.png"  />
+<img align="right" height="150" src="https://media.tenor.com/29Ok5pc0ivAAAAAM/gatinho-gato.gif"  />
 
 ###
 
@@ -51,7 +55,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/joseguilherme-fs/joseguilherme-fs/output/snake.svg" alt="Snake animation" />
 
 ###
